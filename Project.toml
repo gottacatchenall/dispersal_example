@@ -1,0 +1,7 @@
+[deps]
+Dispersal = "8797f018-3445-11e9-3969-c13eb94a0661"
+DynamicGrids = "a5dba43e-3abc-5203-bfc5-584ca68d3f5b"
+ImageMagick = "6218d12a-5da1-5696-b52f-db25d2ecc6d1"
+NeutralLandscapes = "71847384-8354-4223-ac08-659a5128069f"
+SimpleSDMLayers = "2c645270-77db-11e9-22c3-0f302a89c64c"
+Weave = "44d3d7a6-8a23-5bf8-98c5-b353f8df5ec9"
